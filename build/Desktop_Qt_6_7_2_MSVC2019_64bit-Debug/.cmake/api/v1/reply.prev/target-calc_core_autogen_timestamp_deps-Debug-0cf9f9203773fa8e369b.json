@@ -1,0 +1,31 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"core_calculator/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "calc_core_autogen_timestamp_deps::@db66ebaefdca237379c0",
+	"isGeneratorProvided" : true,
+	"name" : "calc_core_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "core_calculator",
+		"source" : "core_calculator"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

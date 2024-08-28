@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/artem/Documents/Calculator
+-cmake-output
+-output-file
+C:/Users/artem/Documents/Calculator/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/qml_imports/appCalculator_build.cmake
+-importPath
+C:/Users/artem/Documents/Calculator/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/Calculator
+-importPath
+C:/Users/artem/Documents/Calculator/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.7.2/msvc2019_64/./qml
+-qrcFiles
+C:/Users/artem/Documents/Calculator/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/qmake_Calculator.qrc
+C:/Users/artem/Documents/Calculator/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/appCalculator_raw_qml_0.qrc

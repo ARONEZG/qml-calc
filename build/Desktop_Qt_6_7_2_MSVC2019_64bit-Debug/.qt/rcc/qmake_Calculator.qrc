@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Calculator">
+    <file alias="qmldir">C:/Users/artem/Documents/Calculator/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/Calculator/qmldir</file>
+  </qresource>
+</RCC>
+

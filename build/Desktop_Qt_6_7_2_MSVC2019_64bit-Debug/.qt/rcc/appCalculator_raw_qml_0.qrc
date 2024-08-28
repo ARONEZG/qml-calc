@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Calculator/">
+    <file alias="Main.qml">C:/Users/artem/Documents/Calculator/Main.qml</file>
+    <file alias="text_area.qml">C:/Users/artem/Documents/Calculator/text_area.qml</file>
+    <file alias="CalcBtn.qml">C:/Users/artem/Documents/Calculator/CalcBtn.qml</file>
+  </qresource>
+</RCC>
+
